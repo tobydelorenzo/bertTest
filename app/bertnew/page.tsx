@@ -9,13 +9,12 @@ import FormLabel from "@mui/material/FormLabel"
 import Divider from "@mui/material/Divider"
 import Button from '@mui/material/Button';
 import Typography from '@mui/material/Typography';
-import Image from 'next/image';
 
 
 export default function currentBert() {
 
   const formUrl =
-  "https://script.google.com/a/macros/performio.co/s/AKfycbyDxpZgEhD7SEb2ZEysWsufigcuT_cAHzFjvzyHFnytJO7NQmIlPTSDii5e0h-CtEHG8g/exec"
+  "https://script.google.com/a/macros/performio.co/s/AKfycbxQRxVmDgL81ppYFrMDkOtub5QgulYkIfnZgVKZsD78eeLrQ7RNbW1bhvGAvrJhslgqpQ/exec"
 
   const labelLeft = {
     height: "100%",
