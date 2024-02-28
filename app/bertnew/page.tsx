@@ -14,7 +14,7 @@ import Typography from '@mui/material/Typography';
 export default function currentBert() {
 
   const formUrl =
-  "https://script.google.com/a/macros/performio.co/s/AKfycbxQRxVmDgL81ppYFrMDkOtub5QgulYkIfnZgVKZsD78eeLrQ7RNbW1bhvGAvrJhslgqpQ/exec"
+  "https://script.google.com/macros/s/AKfycbxeNY9obePE3-23RJdMMX40pXICZnM2MepLNWcfikNnBD_TCPULbHbZFor1n5GiF4kR7Q/exec"
 
   const labelLeft = {
     height: "100%",

@@ -15,7 +15,7 @@ import Image from 'next/image';
 export default function currentBert() {
 
   const formUrl =
-  "https://script.google.com/a/macros/performio.co/s/AKfycbzmQ64jQmruYXce_GsBjdz_tqC3v5Why2AfAcftItDW/dev"
+  "https://script.google.com/macros/s/AKfycbxpM1Aq44XIcwZQUIBC3VCLfEDB1rpFe2F7XcqbBnYW8gEMdRkXOi1x7J-Ulvj3o_oB/exec"
 
   const labelLeft = {
     height: "100%",
