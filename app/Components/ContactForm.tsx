@@ -20,6 +20,7 @@ const ContactForm = () => {
     try {
       const response = await fetch('https://hooks.zapier.com/hooks/catch/16691830/3cd229n/', {
         method: 'POST',
+        mode: "no-cors", 
         headers: {
           'Content-Type': 'application/json'
         },
